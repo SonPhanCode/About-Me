@@ -11,15 +11,15 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: url(taoanhdep_cardfb.jpg) no-repeat center center;
+  background: url(bg.jpg) no-repeat center center;
   background-size: cover;
 }
 
 .side-menu{
   position: fixed;
-  top: 25%;
+  top: 50%;
   right: -200px;
-  width: 100px;
+  width: 200px;
   background-color: #f1f1f1aa;
   transition: .4s linear;
 }
